@@ -1,0 +1,76 @@
+#!/usr/bin/env bash
+
+env='dev_phase'
+tdy=`date +%Y-%m-%d`
+TIMESTAMP=`date "+%Y-%m-%d %H:%M:%S"`
+
+#Intializing the arrays with list of valid argument values
+dbArr=('PIVTDB0' 'PIVDDB0' 'PIVPDB0' 'PIVSDB0')
+optnlArgarr1=('PREV' 'CURR')
+optnlArgarr2=('UP' 'DOWN')
+hostSrc='server.properties'
+
+# checks whether right arguments are passed to script.
+if [[ $# -eq 0 || $# -gt 3 ]]; then
+        echo "Wrong argument list please pass <database name> as required argument \
+              and can pass 2 & 3 optional arguments <type of query> (PREV,CURR) and <status of the server>(UP,DOWN) \
+              .By default the program OPTIONAL ARGUMENTS as PREV AND UP in the script"
+        exit 1
+elif  [[ $# -eq 1 \
+            && "${dbArr[@]}" =~ $1 ]];
+         then
+            DATABASE=$1
+            OPTION1="PREV"
+            OPTION2="UP"
+elif [[ $# -eq 2 \
+           && "${dbArr[@]}" =~ $1 \
+           && "${optnlArgarr1[@]}" =~ $2 ]];
+        then
+            DATABASE=$1
+            OPTION1=$2
+            OPTION2="UP"
+elif [[ $# -eq 3 \
+           && "${dbArr[@]}" =~ $1 \
+           && "${optnlArgarr1[@]}" =~ $2 \
+           && "${optnlArgarr2[@]}" =~ $3  ]];
+        then
+            DATABASE=$1
+            OPTION1=$2
+            OPTION2=$3
+else
+        echo "Invalid arguments passed -" $1,$2
+        exit 1
+fi
+
+if [[ -f server_login_stats_${tdy}.log \
+          && $2 != "CURR" && $3 != "DOWN" ]];
+          then
+                echo "Process ran on all servers,Check the server login stats if there any down nodes then \
+                              pass third argument as DOWN to run the process for the down server"
+                exit 1
+elif [[ -f server_login_stats_${tdy}.log \
+          && $2 == "CURR" ]];
+          then
+                echo "Process started to kill current running queries"
+elif [[ -f server_login_stats_${tdy}.log \
+          && $3 == "DOWN" ]];
+          then
+                echo "Retrying to connect to the failed host............"
+                hostSrc='server_login_stats_'${tdy}'.log'
+else
+           echo "SERVER:LOG MESSAGE" >   server_login_stats_${tdy}.log
+fi
+
+for name  in `awk '(NR >1) && $1 !~ /:reachable/ {print $1}' $hostSrc`
+    do
+      server="$(cut -d : -f1 <<<"$name")"
+      ip="$(cut -d : -f2 <<<"$name")"
+      pingTest=`ping -c 1 $ip | grep Unreachable | wc -l`
+      if [ $pingTest -eq 0 ]; then
+         echo $server":"$ip:"reachable on -" $TIMESTAMP >> server_login_stats_${tdy}.log
+         echo "Connected to " $server
+         ssh root@$server "bash -s" < findstalequeries_v0.1.sh $DATABASE  $OPTION1
+      else
+         echo $server":"$ip:"Unreachable on -" $TIMESTAMP >> server_login_stats_${tdy}.log
+      fi
+    done;
