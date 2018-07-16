@@ -6,9 +6,10 @@
       <file name="/start_script.py" timestamp="1531757919707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531758809403">
+      <file name="/Dummy.txt" timestamp="1531768760365">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled3/remotefindssh.sh" timestamp="1531768681450" />
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
         <mark key="[" line="19" column="19" />
       </file>
@@ -30,10 +31,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://svnpsrv1.waddell.com/svn/WaddellRepository/HDFS/</text>
+        <text>#!/usr/bin/env bash</text>
       </register>
       <register name="-" type="4">
-        <text>https://svnpsrv1.waddell.com/svn/WaddellRepository/HDFS/</text>
+        <text>#!/usr/bin/env bash</text>
       </register>
     </registers>
     <search>
