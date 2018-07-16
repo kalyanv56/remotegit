@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1531518871165">
+      <file name="/start_script.py" timestamp="1531757919707">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531758519024">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
@@ -15,24 +18,34 @@
         <mark key="." line="527" column="11" />
         <mark key="^" line="527" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/Fileload/framework/fileload.py" timestamp="1531758352940">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://svnpsrv1.waddell.com/svn/WaddellRepository/HDFS/</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>https://svnpsrv1.waddell.com/svn/WaddellRepository/HDFS/</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
