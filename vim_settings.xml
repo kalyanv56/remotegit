@@ -9,7 +9,11 @@
       <file name="/Dummy.txt" timestamp="1531769142066">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled3/remotefindssh.sh" timestamp="1531769212962" />
+      <file name="$USER_HOME$/PycharmProjects/untitled3/remotefindssh.sh" timestamp="1531864498787">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
         <mark key="[" line="19" column="19" />
       </file>
