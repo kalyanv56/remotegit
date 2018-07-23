@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1531757919707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/fileload V1.1/fileload.py" timestamp="1532378804503">
+      <file name="$USER_HOME$/Desktop/fileload V1.1/fileload.py" timestamp="1532379704510">
         <mark key="[" line="347" column="53" />
         <mark key="]" line="347" column="56" />
         <mark key="." line="347" column="53" />
@@ -20,7 +20,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1532378551824">
+      <file name="/a.dummy" timestamp="1532379420180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
@@ -78,6 +78,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
