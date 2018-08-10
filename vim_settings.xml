@@ -59,10 +59,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1533926861992">
-        <mark key="[" line="346" column="20" />
-        <mark key="]" line="346" column="21" />
-        <mark key="." line="346" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1533930837058">
+        <mark key="[" line="844" column="122" />
+        <mark key="]" line="844" column="122" />
+        <mark key="." line="844" column="122" />
         <mark key="^" line="176" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
@@ -71,11 +71,14 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="4">
+        <text>table l</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Rml4aW5nIHRlc3RpbmcgZ2xpdGNoZXMgZm9yIHZhbGlkIGRhdGUgZm9ybWF0cyBnZXR0aW5nIGludG8gdGhlIGVycm9yIHRhYmxlIC1LYXN5YXAuCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Rml4aW5nIHRlc3RpbmcgZ2xpdGNoZXMgZm9yIHZhbGlkIGRhdGUgZm9ybWF0cyBnZXR0aW5nIGludG8gdGhlIGVycm9yIHRhYmxlIC1LYXN5YXAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
         <text>if val==&quot;as_of_dt&quot;:
@@ -102,7 +105,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Testing and Bug fixing -Kasyap/Kasyap</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
