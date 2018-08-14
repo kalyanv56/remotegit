@@ -21,10 +21,10 @@
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534266099983">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534267053361">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled3/remotefindssh.sh" timestamp="1531864498787">
         <mark key="]" line="5" column="0" />
@@ -85,8 +85,8 @@
       <register name="1" type="2">
         <text encoding="base64">c3VicHJvY2Vzcy5jYWxsKFsic2giLCIvaG9tZS9waGRmdHB1c2VyL2Rldl9waGFzZS9zdGFsZXF1ZXJpZXMvcmVtb3Rlc3NoLnNoIiwiUElWVERCMCIsIkNVUlIiXSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3VicHJvY2Vzcy5jYWxsKFsic2giLCIvaG9tZS9waGRmdHB1c2VyL2Rldl9waGFzZS9zdGFsZXF1ZXJpZXMvcmVtb3Rlc3NoLnNoIiwiUElWVERCMCIsIkNVUlIiXSkK</text>
+      <register name="&quot;" type="4">
+        <text>#os.system(&quot;sh /home/phdftpuser/dev_phase/stalequeries/remotessh.sh PIVTDB0  DOWN&quot;)</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CnByb2Nlc3M9UG9wZW4o</text>
@@ -119,7 +119,7 @@
         emAil(fnlStrg</text>
       </register>
       <register name="-" type="4">
-        <text>from subprocess import Popen</text>
+        <text>#os.system(&quot;sh /home/phdftpuser/dev_phase/stalequeries/remotessh.sh PIVTDB0  DOWN&quot;)</text>
       </register>
     </registers>
     <search>
