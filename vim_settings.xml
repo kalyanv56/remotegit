@@ -73,8 +73,11 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534530579682">
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534537646034">
+        <mark key="[" line="149" column="8" />
+        <mark key="]" line="149" column="8" />
         <mark key="^" line="141" column="44" />
+        <mark key="." line="149" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -83,53 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>''''def validateEmail(SERVER, validLst):
-    host = SERVER
-    emailProp = '/home/phdftpuser/%s/project/config/Email.properties' % (g_test_var)
-    config = ConfigParser.RawConfigParser()
-    config.read(emailProp)
-    emailLst = config.get('Email Header', 'email.id').split(',')
-    server = smtplib.SMTP()
-    server.set_debuglevel(0)
-    server.connect(host)
-    server.helo(host)
-    for i in emailLst:
-        server.mail(i)
-        code, msg = server.rcpt(str(i))
-        if code == 250:
-            validLst.append(i)
-    server.quit()
-    return validLst'''
-
-'''def sendErromail(errInfo, job, process):
-    print 'Email Started'
-    today = datetime.datetime.now().date()
-    SERVER = &quot;mailhost.waddell.com&quot;
-    BODY = errInfo
-    address_book = []
-    if process == '':
-        SUBJECT = 'Tasked Failed -- %s in DEV for process on %s' % (job, str(today))
-    else:
-        SUBJECT = 'Tasked Failed -- %s in DEV @ %s on %s' % (job, process, str(today))
-    #address_book = validateEmail(SERVER, address_book)
-    FROM = &quot;HDFSSupportTeam@waddell.com&quot;
-    #TO = ','.join(address_book)
-    TO = &quot;HDFSSupportTeam@waddell.com&quot;
-    msg = MIMEMultipart()
-    msg['Subject'] = SUBJECT
-    msg['From'] = FROM
-    msg['To'] = TO
-    msg.preamble = 'Multipart massage.\n'
-    msg.attach(MIMEText(BODY, 'plain'))
-    try:
-        server = smtplib.SMTP(SERVER)
-        server.sendmail(FROM, address_book, msg.as_string())
-        print 'Message Sent'
-    except SMTPEXCEPTION:
-        print &quot;Error: unable to send Error email with attachment&quot;'''</text>
+        <text>fle_nm=None</text>
       </register>
       <register name="-" type="4">
-        <text>from email import Encoders</text>
+        <text>fle_nm=None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
