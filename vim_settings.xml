@@ -13,8 +13,10 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534784720084">
+      <file name="/Dummy.txt" timestamp="1534795175697">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1533589304678">
         <mark key="[" line="35" column="28" />
@@ -73,12 +75,7 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534793405988">
-        <mark key="[" line="141" column="7" />
-        <mark key="]" line="141" column="7" />
-        <mark key="^" line="127" column="44" />
-        <mark key="." line="141" column="7" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534795095729" />
     </filemarks>
     <jumps>
       <jump line="190" column="85" filename="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" />
@@ -86,10 +83,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRlc3RfZGlyX25t</text>
+        <text>Code changes to fix 0000000 in date format is not logged into the error table</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlc3RfZGlyX25t</text>
+        <text>Code changes to fix 0000000 in date format is not logged into the error table</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
