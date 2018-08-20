@@ -73,11 +73,8 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534537646034">
-        <mark key="[" line="149" column="8" />
-        <mark key="]" line="149" column="8" />
-        <mark key="^" line="141" column="44" />
-        <mark key="." line="149" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534783177599">
+        <mark key="^" line="140" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -86,10 +83,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fle_nm=None</text>
+        <text>import sys</text>
       </register>
       <register name="-" type="4">
-        <text>fle_nm=None</text>
+        <text>import sys</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
