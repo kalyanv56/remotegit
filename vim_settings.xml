@@ -13,7 +13,7 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534795175697">
+      <file name="/Dummy.txt" timestamp="1534800757074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,10 +75,12 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534798112317">
-        <mark key="[" line="142" column="12" />
-        <mark key="]" line="142" column="12" />
-        <mark key="." line="142" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534802169103">
+        <mark key="s" line="62" column="4" />
+        <mark key="[" line="149" column="169" />
+        <mark key="]" line="152" column="180" />
+        <mark key="." line="152" column="180" />
+        <mark key="^" line="152" column="180" />
       </file>
     </filemarks>
     <jumps>
@@ -86,12 +88,11 @@
       <jump line="47" column="4" filename="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#print &quot;Directory check completed&quot;
-        ##else:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtYXRlcnJtc2coIkhBV1EgUXVlcnkgIixzdHIoZS5wZ2NvZGUpLCJ7MH0iLmZvcm1hdChzdHIoZS5wZ2Vycm9yKSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>print dest_dir_pth</text>
+        <text encoding="base64">UXVlcnkg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -99,14 +100,17 @@
       <register name="0" type="4">
         <text>table l</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtYXRlcnJtc2coIkhBV1EgUXVlcnkgIixzdHIoZS5wZ2NvZGUpLCJ7MH0iLmZvcm1hdChzdHIoZS5wZ2Vycm9yKSkpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>#print &quot;Directory check completed&quot;
         ##else:</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgJycndHJ5OgogICAgICAgIGNvbm4gPSBwc3ljb3BnMi5jb25uZWN0KCJob3N0YWRkcj0lcyBkYm5hbWU9JXMiICUgKGhvc3QsIGRiTmFtZSkpCiAgICAgICAgY3VyID0gY29ubi5jdXJzb3IoKQogICAgZXhjZXB0IHBzeWNvcGcyLkVycm9yLCBlOgogICAgICAgIHByaW50ICd1bmFibGUgdG8gY29ubmVjdCB0byB0aGUgZGF0YWJhc2UgJXMnICUgZQogICAgICAgIGVycl9tc2cgPSAnRXJyb3I6IERhdGFiYXNlIGNvbm5lY2l0aXZpdHkgaXNzdWVzIC0lcycgJSBlCiAgICAgICAgZGVidWdfbXNnID0gJ0RFQlVHOlBsZWFzZSBjaGVjayB0aGUgZGF0YWJhc2UgY29ubmVjdGlvbnMnCiAgICAgICAgZW1haWxfc3RyID0gZXJyX21zZyArICdcbicgKyBkZWJ1Z19tc2cKICAgICAgICBlbUFpbChlbWFpbF9zdHIsICdJc3N1ZSBpbiBEYXRhYmFzZSBDb25uZWN0aW9uIFN0cmluZycsICcnKQogICAgICAgIHN5cy5leGl0KDEpJycn</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>'''def fetchAsOfDt(cursor):
     try:
         print '---------------------------------------'
@@ -130,22 +134,22 @@
         cur.close()
         conn.close()'''</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>cur.close()
     conn.close()</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlcnJfbXNnID0gJ0Vycm9yOiBEYXRhYmFzZSBjb25uZWNpdGl2aXR5IGlzc3VlcyAtJXMnICUgZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICNkYk5hbWUsIGhvc3QsIGZsZV9IdWIgPSBnZXRDb25uKCkKICAgICNwcmludCBkYk5hbWUsIGhvc3QsIGZsZV9IdWI=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>#funcParameters = ','.join(
      #   [eval(x) if x in ['as_of_dt', 'bus_proc_dt', 'as_of_tdy'] else x for x in layRead[&quot;db_prop&quot;][0][&quot;parameters&quot;]])
     #print funcParameters</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>''''def validateEmail(SERVER, validLst):
     host = SERVER
     emailProp = '/home/phdftpuser/%s/project/config/Email.properties' % (g_test_var)
@@ -190,11 +194,6 @@
         print 'Message Sent'
     except SMTPEXCEPTION:
         print &quot;Error: unable to send Error email with attachment&quot;'''</text>
-      </register>
-      <register name="9" type="4">
-        <text>import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText</text>
       </register>
     </registers>
     <search>
