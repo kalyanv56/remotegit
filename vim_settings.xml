@@ -13,7 +13,7 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534775517096">
+      <file name="/Dummy.txt" timestamp="1534784720084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1533589304678">
@@ -73,8 +73,11 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534783177599">
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" timestamp="1534784515167">
+        <mark key="[" line="140" column="8" />
+        <mark key="]" line="140" column="8" />
         <mark key="^" line="140" column="44" />
+        <mark key="." line="140" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -83,10 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import sys</text>
+        <text>#fle_nm=layRead[&quot;db_prop&quot;][0][&quot;sshcopy&quot;][1]</text>
       </register>
       <register name="-" type="4">
-        <text>import sys</text>
+        <text>#fle_nm=layRead[&quot;db_prop&quot;][0][&quot;sshcopy&quot;][1]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
