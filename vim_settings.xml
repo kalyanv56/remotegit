@@ -66,12 +66,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1534957911392">
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1534970596568">
         <mark key="e" line="187" column="51" />
-        <mark key="[" line="187" column="39" />
-        <mark key="]" line="187" column="39" />
+        <mark key="'" line="642" column="25" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
         <mark key="^" line="152" column="15" />
-        <mark key="." line="187" column="39" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
@@ -87,13 +88,14 @@
     <jumps>
       <jump line="190" column="85" filename="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" />
       <jump line="47" column="4" filename="$USER_HOME$/PycharmProjects/fileload_v1.0/python/generic_func_exec.py" />
+      <jump line="642" column="25" filename="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>for the current file&quot;</text>
+        <text># type: object</text>
       </register>
       <register name="-" type="4">
-        <text>for the current file&quot;</text>
+        <text># type: object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -102,13 +104,20 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>print 'Unable to connect to the database %s' % e
+        err_msg = 'Error: Database connectivity issues -%s' % e
+        de_msg = 'DEBUG:Please check the database connections'
+        email_body = err_msg + '\n' + de_msg
+        emAil(email_body, 'Issue in Database Connection String', '')</text>
+      </register>
+      <register name="2" type="4">
         <text>print &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             err_msg = &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             de_msg = &quot;Please check the if %s exists for the process in the location -- %s&quot; % (prcFle, absPth)
             email_body = err_msg + '\n' + de_msg
             emAil(email_body, &quot;%s doesnt exists&quot; % prcFle, &quot;&quot;)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>#############################################################################################################################
 # /                                                                                                                         /#
 # /     getConn : fetch the property information from the configuration file and returns .                                  /#
@@ -127,17 +136,17 @@ def getConn():
     connLst = ','.join(connLst)
     return connLst.split(',')</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBmb3JtYXRlcnJtc2coIkhBV1EgUXVlcnkgIixzdHIoZS5wZ2NvZGUpLCJ7MH0iLmZvcm1hdChzdHIoZS5wZ2Vycm9yKSkpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>#print &quot;Directory check completed&quot;
         ##else:</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgJycndHJ5OgogICAgICAgIGNvbm4gPSBwc3ljb3BnMi5jb25uZWN0KCJob3N0YWRkcj0lcyBkYm5hbWU9JXMiICUgKGhvc3QsIGRiTmFtZSkpCiAgICAgICAgY3VyID0gY29ubi5jdXJzb3IoKQogICAgZXhjZXB0IHBzeWNvcGcyLkVycm9yLCBlOgogICAgICAgIHByaW50ICd1bmFibGUgdG8gY29ubmVjdCB0byB0aGUgZGF0YWJhc2UgJXMnICUgZQogICAgICAgIGVycl9tc2cgPSAnRXJyb3I6IERhdGFiYXNlIGNvbm5lY2l0aXZpdHkgaXNzdWVzIC0lcycgJSBlCiAgICAgICAgZGVidWdfbXNnID0gJ0RFQlVHOlBsZWFzZSBjaGVjayB0aGUgZGF0YWJhc2UgY29ubmVjdGlvbnMnCiAgICAgICAgZW1haWxfc3RyID0gZXJyX21zZyArICdcbicgKyBkZWJ1Z19tc2cKICAgICAgICBlbUFpbChlbWFpbF9zdHIsICdJc3N1ZSBpbiBEYXRhYmFzZSBDb25uZWN0aW9uIFN0cmluZycsICcnKQogICAgICAgIHN5cy5leGl0KDEpJycn</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>'''def fetchAsOfDt(cursor):
     try:
         print '---------------------------------------'
@@ -161,15 +170,12 @@ def getConn():
         cur.close()
         conn.close()'''</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>cur.close()
     conn.close()</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBlcnJfbXNnID0gJ0Vycm9yOiBEYXRhYmFzZSBjb25uZWNpdGl2aXR5IGlzc3VlcyAtJXMnICUgZQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICNkYk5hbWUsIGhvc3QsIGZsZV9IdWIgPSBnZXRDb25uKCkKICAgICNwcmludCBkYk5hbWUsIGhvc3QsIGZsZV9IdWI=</text>
       </register>
     </registers>
     <search>
