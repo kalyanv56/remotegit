@@ -13,7 +13,7 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534803737150">
+      <file name="/Dummy.txt" timestamp="1535043426737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,13 +66,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1534970596568">
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1535043889361">
         <mark key="e" line="187" column="51" />
         <mark key="'" line="642" column="25" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
+        <mark key="[" line="143" column="4" />
+        <mark key="]" line="143" column="4" />
         <mark key="^" line="152" column="15" />
-        <mark key="." line="21" column="31" />
+        <mark key="." line="143" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
@@ -92,10 +92,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># type: object</text>
+        <text>print prcFle</text>
       </register>
       <register name="-" type="4">
-        <text># type: object</text>
+        <text>print prcFle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
