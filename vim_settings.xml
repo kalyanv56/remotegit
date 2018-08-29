@@ -66,13 +66,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1535569070257">
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1535570101894">
         <mark key="e" line="187" column="51" />
         <mark key="'" line="642" column="25" />
-        <mark key="[" line="143" column="4" />
-        <mark key="]" line="143" column="4" />
+        <mark key="[" line="374" column="4" />
+        <mark key="]" line="374" column="4" />
         <mark key="^" line="152" column="15" />
-        <mark key="." line="143" column="4" />
+        <mark key="." line="374" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
@@ -92,11 +92,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
+      <register name="&quot;" type="4">
+        <text>global coLneStrts</text>
       </register>
       <register name="-" type="4">
-        <text>Removed unecessary spaces and variables to make code more concise -KAsyap</text>
+        <text>global coLneStrts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
