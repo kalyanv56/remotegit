@@ -58,10 +58,10 @@
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536682640326">
-        <mark key="[" line="387" column="51" />
-        <mark key="]" line="387" column="51" />
-        <mark key="." line="387" column="51" />
+      <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536684147107">
+        <mark key="[" line="387" column="16" />
+        <mark key="]" line="387" column="16" />
+        <mark key="." line="387" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/test_filter_and_remove.py" timestamp="1536262697564">
         <mark key="[" line="0" column="14" />
@@ -112,10 +112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>json_load[rows[pos_args[0]:pos_args[1]]][0][&quot;seq_ident_pos&quot;</text>
+        <text>print &quot;Seq identifier character&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>json_load[rows[pos_args[0]:pos_args[1]]][0][&quot;seq_ident_pos&quot;</text>
+        <text>print &quot;Seq identifier character&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
