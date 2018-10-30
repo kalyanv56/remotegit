@@ -13,10 +13,10 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540934961315">
+      <file name="/Dummy.txt" timestamp="1540936632613">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1535488420089">
         <mark key="[" line="24" column="17" />
@@ -72,8 +72,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540934904249">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540936619577">
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/Fileload/framework/fileload.py" timestamp="1531759962651">
         <mark key="[" line="0" column="0" />
@@ -108,15 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Test merge check
-
-# Conflicts:
-#	ebcdic_parser.py
-
-Test merge succesuss</text>
+        <text>hotfix</text>
       </register>
       <register name="-" type="4">
-        <text>second message print statement</text>
+        <text>hotfix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
