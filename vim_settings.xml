@@ -13,7 +13,7 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540928208875">
+      <file name="/Dummy.txt" timestamp="1540934961315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -26,11 +26,6 @@
       <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534267053361">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled3/remotefindssh.sh" timestamp="1531864498787">
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="/Python Console" timestamp="1540924900962">
@@ -77,6 +72,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540934904249">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Fileload/framework/fileload.py" timestamp="1531759962651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -115,10 +113,10 @@
 # Conflicts:
 #	ebcdic_parser.py
 
-Test merge success</text>
+Test merge succesuss</text>
       </register>
       <register name="-" type="4">
-        <text>initial commit - init</text>
+        <text>second message print statement</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -132,32 +130,40 @@ Test merge success</text>
 # Conflicts:
 #	ebcdic_parser.py
 
-Test merge success</text>
+Test merge succesuss</text>
       </register>
       <register name="2" type="4">
+        <text>Test merge check
+
+# Conflicts:
+#	ebcdic_parser.py
+
+Test merge success</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICIiIgoKICAgIDp0eXBlIHRhYmxlOiBvYmplY3QKICAgICIiIg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Q29kZSAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>print 'Unable to connect to the database %s' % e
         err_msg = 'Error: Database connectivity issues -%s' % e
         de_msg = 'DEBUG:Please check the database connections'
         email_body = err_msg + '\n' + de_msg
         emAil(email_body, 'Issue in Database Connection String', '')</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>print &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             err_msg = &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             de_msg = &quot;Please check the if %s exists for the process in the location -- %s&quot; % (prcFle, absPth)
             email_body = err_msg + '\n' + de_msg
             emAil(email_body, &quot;%s doesnt exists&quot; % prcFle, &quot;&quot;)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>#############################################################################################################################
 # /                                                                                                                         /#
 # /     getConn : fetch the property information from the configuration file and returns .                                  /#
@@ -176,12 +182,8 @@ def getConn():
     connLst = ','.join(connLst)
     return connLst.split(',')</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBmb3JtYXRlcnJtc2coIkhBV1EgUXVlcnkgIixzdHIoZS5wZ2NvZGUpLCJ7MH0iLmZvcm1hdChzdHIoZS5wZ2Vycm9yKSkpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>#print &quot;Directory check completed&quot;
-        ##else:</text>
       </register>
     </registers>
     <search>
