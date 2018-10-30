@@ -13,10 +13,10 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540926052478">
+      <file name="/Dummy.txt" timestamp="1540928208875">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="68" />
-        <mark key="." line="0" column="68" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1535488420089">
         <mark key="[" line="24" column="17" />
@@ -47,6 +47,7 @@
       <file name="/a.dummy" timestamp="1534263491367">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ebcdic_parser.py" timestamp="1540928278172" />
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
         <mark key="[" line="347" column="50" />
       </file>
@@ -54,6 +55,9 @@
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540927829350">
+        <mark key="[" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
         <mark key="[" line="19" column="19" />
@@ -72,12 +76,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/git clone/fileload.py" timestamp="1531757013292">
-        <mark key="[" line="533" column="60" />
-        <mark key="]" line="527" column="11" />
-        <mark key="." line="527" column="11" />
-        <mark key="^" line="527" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/Fileload/framework/fileload.py" timestamp="1531759962651">
         <mark key="[" line="0" column="0" />
@@ -112,10 +110,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print hdr_trlr_keys[0]</text>
+        <text>Test merge check
+
+# Conflicts:
+#	ebcdic_parser.py
+
+Test merge success</text>
       </register>
       <register name="-" type="4">
-        <text>print hdr_trlr_keys[0]</text>
+        <text>initial commit - init</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -124,29 +127,37 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>Test merge check
+
+# Conflicts:
+#	ebcdic_parser.py
+
+Test merge success</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICIiIgoKICAgIDp0eXBlIHRhYmxlOiBvYmplY3QKICAgICIiIg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Q29kZSAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>print 'Unable to connect to the database %s' % e
         err_msg = 'Error: Database connectivity issues -%s' % e
         de_msg = 'DEBUG:Please check the database connections'
         email_body = err_msg + '\n' + de_msg
         emAil(email_body, 'Issue in Database Connection String', '')</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>print &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             err_msg = &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             de_msg = &quot;Please check the if %s exists for the process in the location -- %s&quot; % (prcFle, absPth)
             email_body = err_msg + '\n' + de_msg
             emAil(email_body, &quot;%s doesnt exists&quot; % prcFle, &quot;&quot;)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>#############################################################################################################################
 # /                                                                                                                         /#
 # /     getConn : fetch the property information from the configuration file and returns .                                  /#
@@ -165,15 +176,12 @@ def getConn():
     connLst = ','.join(connLst)
     return connLst.split(',')</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmb3JtYXRlcnJtc2coIkhBV1EgUXVlcnkgIixzdHIoZS5wZ2NvZGUpLCJ7MH0iLmZvcm1hdChzdHIoZS5wZ2Vycm9yKSkpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>#print &quot;Directory check completed&quot;
         ##else:</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgJycndHJ5OgogICAgICAgIGNvbm4gPSBwc3ljb3BnMi5jb25uZWN0KCJob3N0YWRkcj0lcyBkYm5hbWU9JXMiICUgKGhvc3QsIGRiTmFtZSkpCiAgICAgICAgY3VyID0gY29ubi5jdXJzb3IoKQogICAgZXhjZXB0IHBzeWNvcGcyLkVycm9yLCBlOgogICAgICAgIHByaW50ICd1bmFibGUgdG8gY29ubmVjdCB0byB0aGUgZGF0YWJhc2UgJXMnICUgZQogICAgICAgIGVycl9tc2cgPSAnRXJyb3I6IERhdGFiYXNlIGNvbm5lY2l0aXZpdHkgaXNzdWVzIC0lcycgJSBlCiAgICAgICAgZGVidWdfbXNnID0gJ0RFQlVHOlBsZWFzZSBjaGVjayB0aGUgZGF0YWJhc2UgY29ubmVjdGlvbnMnCiAgICAgICAgZW1haWxfc3RyID0gZXJyX21zZyArICdcbicgKyBkZWJ1Z19tc2cKICAgICAgICBlbUFpbChlbWFpbF9zdHIsICdJc3N1ZSBpbiBEYXRhYmFzZSBDb25uZWN0aW9uIFN0cmluZycsICcnKQogICAgICAgIHN5cy5leGl0KDEpJycn</text>
       </register>
     </registers>
     <search>
