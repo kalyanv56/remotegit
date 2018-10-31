@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/kalyanv56/flipframework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kalyanv56/parseebcdic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\kvundrakonda\Desktop" />
+    <option name="cloneParentDir" value="C:\Users\kvundrakonda\Document" />
   </component>
 </application>

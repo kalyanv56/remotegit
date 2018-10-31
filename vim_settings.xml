@@ -13,11 +13,11 @@
         <mark key="." line="328" column="20" />
         <mark key="^" line="783" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540938055971">
+      <file name="/Dummy.txt" timestamp="1541002721095">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1535488420089">
         <mark key="[" line="24" column="17" />
@@ -43,7 +43,6 @@
       <file name="/a.dummy" timestamp="1534263491367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ebcdic_parser.py" timestamp="1540928278172" />
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
         <mark key="[" line="347" column="50" />
       </file>
@@ -109,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hotfix</text>
+        <text>emotegit.git</text>
       </register>
       <register name="-" type="4">
-        <text>hotfix</text>
+        <text>emotegit.git</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
