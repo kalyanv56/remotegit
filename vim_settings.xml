@@ -36,10 +36,11 @@
       <file name="/a.dummy" timestamp="1534263491367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Document/parseebcdic/setup.py" timestamp="1541020069524">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/Document/parseebcdic/setup.py" timestamp="1541025844011">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
         <mark key="[" line="347" column="50" />
@@ -106,10 +107,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>def __set__(self, instance, value):</text>
+        <text>t=[]</text>
       </register>
       <register name="-" type="4">
-        <text>def __set__(self, instance, value):</text>
+        <text>t=[]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -117,13 +118,8 @@
       <register name="0" type="4">
         <text>table l</text>
       </register>
-      <register name="1" type="4">
-        <text>Test merge check
-
-# Conflicts:
-#	ebcdic_parser.py
-
-Test merge succesuss</text>
+      <register name="1" type="8">
+        <text>PrintNumbers</text>
       </register>
       <register name="2" type="4">
         <text>Test merge check
@@ -131,32 +127,40 @@ Test merge succesuss</text>
 # Conflicts:
 #	ebcdic_parser.py
 
-Test merge success</text>
+Test merge succesuss</text>
       </register>
       <register name="3" type="4">
+        <text>Test merge check
+
+# Conflicts:
+#	ebcdic_parser.py
+
+Test merge success</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICIiIgoKICAgIDp0eXBlIHRhYmxlOiBvYmplY3QKICAgICIiIg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Q29kZSAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>print 'Unable to connect to the database %s' % e
         err_msg = 'Error: Database connectivity issues -%s' % e
         de_msg = 'DEBUG:Please check the database connections'
         email_body = err_msg + '\n' + de_msg
         emAil(email_body, 'Issue in Database Connection String', '')</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>print &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             err_msg = &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
             de_msg = &quot;Please check the if %s exists for the process in the location -- %s&quot; % (prcFle, absPth)
             email_body = err_msg + '\n' + de_msg
             emAil(email_body, &quot;%s doesnt exists&quot; % prcFle, &quot;&quot;)</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>#############################################################################################################################
 # /                                                                                                                         /#
 # /     getConn : fetch the property information from the configuration file and returns .                                  /#
@@ -174,9 +178,6 @@ def getConn():
     connLst = config.get(&quot;Host Property&quot;, &quot;Host.id&quot;).split(',')
     connLst = ','.join(connLst)
     return connLst.split(',')</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRlcnJtc2coIkhBV1EgUXVlcnkgIixzdHIoZS5wZ2NvZGUpLCJ7MH0iLmZvcm1hdChzdHIoZS5wZ2Vycm9yKSkpCg==</text>
       </register>
     </registers>
     <search>
