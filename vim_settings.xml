@@ -22,7 +22,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541086616709">
+      <file name="/Python Console" timestamp="1541088799220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload-v1.1/fileload.py" timestamp="1533927123989">
@@ -33,14 +33,14 @@
       <file name="/fragment.py" timestamp="1536338414140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1534263491367">
+      <file name="/a.dummy" timestamp="1541089122244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Document/parseebcdic/setup.py" timestamp="1541087838689">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="18" column="5" />
+      <file name="$USER_HOME$/Document/parseebcdic/setup.py" timestamp="1541088778755">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
         <mark key="[" line="347" column="50" />
@@ -107,10 +107,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print(type(self.input()))</text>
+        <text>local</text>
       </register>
       <register name="-" type="4">
-        <text>print(type(self.input()))</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
