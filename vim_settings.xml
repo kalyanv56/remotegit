@@ -47,7 +47,11 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1542390014541" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1542500231535">
+        <mark key="[" line="708" column="15" />
+        <mark key="]" line="692" column="4" />
+        <mark key="." line="692" column="4" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
         <mark key="[" line="376" column="4" />
         <mark key="]" line="376" column="4" />
@@ -124,10 +128,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StandardError</text>
+        <text>_json_path=_args.pointer
+    _input_path=_args.input</text>
       </register>
       <register name="-" type="4">
-        <text>StandardError</text>
+        <text>arguments</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -135,10 +140,18 @@
       <register name="0" type="4">
         <text>table l</text>
       </register>
-      <register name="1" type="8">
-        <text>PrintNumbers</text>
+      <register name="1" type="4">
+        <text>_json_path=_args.pointer
+    _input_path=_args.input</text>
       </register>
       <register name="2" type="4">
+        <text>print (&quot;json input is&quot;,_json_path)
+    print (&quot;input file path is&quot;,_input_path)</text>
+      </register>
+      <register name="3" type="8">
+        <text>PrintNumbers</text>
+      </register>
+      <register name="4" type="4">
         <text>Test merge check
 
 # Conflicts:
@@ -146,7 +159,7 @@
 
 Test merge succesuss</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Test merge check
 
 # Conflicts:
@@ -154,47 +167,21 @@ Test merge succesuss</text>
 
 Test merge success</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICIiIgoKICAgIDp0eXBlIHRhYmxlOiBvYmplY3QKICAgICIiIg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Q29kZSAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>print 'Unable to connect to the database %s' % e
         err_msg = 'Error: Database connectivity issues -%s' % e
         de_msg = 'DEBUG:Please check the database connections'
         email_body = err_msg + '\n' + de_msg
         emAil(email_body, 'Issue in Database Connection String', '')</text>
-      </register>
-      <register name="8" type="4">
-        <text>print &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
-            err_msg = &quot;The %s you loaded doesn't exist in the location please recheck the location&quot; % prcFle
-            de_msg = &quot;Please check the if %s exists for the process in the location -- %s&quot; % (prcFle, absPth)
-            email_body = err_msg + '\n' + de_msg
-            emAil(email_body, &quot;%s doesnt exists&quot; % prcFle, &quot;&quot;)</text>
-      </register>
-      <register name="9" type="4">
-        <text>#############################################################################################################################
-# /                                                                                                                         /#
-# /     getConn : fetch the property information from the configuration file and returns .                                  /#
-# /                                                                                                                         /#
-# /	Retruns host,database,hadoop environment location and network drive environment locations.                              /#
-# /                                                                                                                         /#
-# /                                                                                                                         /#
-#############################################################################################################################
-
-
-def getConn():
-    connProp = &quot;/home/phdftpuser/%s/project/config/host.properties&quot; % g_test_var
-    config = ConfigParser.RawConfigParser()
-    config.read(connProp)
-    connLst = config.get(&quot;Host Property&quot;, &quot;Host.id&quot;).split(',')
-    connLst = ','.join(connLst)
-    return connLst.split(',')</text>
       </register>
     </registers>
     <search>
