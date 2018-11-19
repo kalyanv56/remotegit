@@ -16,7 +16,7 @@
         <mark key="]" line="38" column="22" />
         <mark key="." line="38" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1541092493111">
+      <file name="/Python Console" timestamp="1542661262035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload-v1.1/fileload.py" timestamp="1533927123989">
@@ -93,12 +93,12 @@
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" timestamp="1542649142261">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" timestamp="1542661703282">
         <mark key="'" line="8" column="29" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="79" />
-        <mark key="." line="15" column="11" />
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="9" column="79" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Document/parseebcdic/fff.py" timestamp="1542146228938">
         <mark key="[" line="321" column="4" />
@@ -129,10 +129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rgume</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>rgume</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -141,23 +141,19 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>if args.pointer and args.input and args.tramsform is None:
+        parser.error(&quot;Type python fileload.py -h to see how to run details&quot;)</text>
+      </register>
+      <register name="2" type="4">
         <text>_json_path=_args.pointer
     _input_path=_args.input</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>print (&quot;json input is&quot;,_json_path)
     print (&quot;input file path is&quot;,_input_path)</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>PrintNumbers</text>
-      </register>
-      <register name="4" type="4">
-        <text>Test merge check
-
-# Conflicts:
-#	ebcdic_parser.py
-
-Test merge succesuss</text>
       </register>
       <register name="5" type="4">
         <text>Test merge check
@@ -165,23 +161,24 @@ Test merge succesuss</text>
 # Conflicts:
 #	ebcdic_parser.py
 
-Test merge success</text>
+Test merge succesuss</text>
       </register>
       <register name="6" type="4">
+        <text>Test merge check
+
+# Conflicts:
+#	ebcdic_parser.py
+
+Test merge success</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICIiIgoKICAgIDp0eXBlIHRhYmxlOiBvYmplY3QKICAgICIiIg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Q29kZSAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>print 'Unable to connect to the database %s' % e
-        err_msg = 'Error: Database connectivity issues -%s' % e
-        de_msg = 'DEBUG:Please check the database connections'
-        email_body = err_msg + '\n' + de_msg
-        emAil(email_body, 'Issue in Database Connection String', '')</text>
       </register>
     </registers>
     <search>
