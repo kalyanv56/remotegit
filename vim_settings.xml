@@ -47,10 +47,11 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1542504309481">
-        <mark key="[" line="714" column="15" />
-        <mark key="]" line="698" column="4" />
-        <mark key="." line="698" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1542644575780">
+        <mark key="e" line="689" column="11" />
+        <mark key="[" line="742" column="84" />
+        <mark key="]" line="742" column="84" />
+        <mark key="." line="742" column="84" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
         <mark key="[" line="376" column="4" />
@@ -81,7 +82,7 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542504721845">
+      <file name="/Dummy.txt" timestamp="1542644669556">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -128,11 +129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_json_path=_args.pointer
-    _input_path=_args.input</text>
+        <text>rgume</text>
       </register>
       <register name="-" type="4">
-        <text>arguments</text>
+        <text>rgume</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
