@@ -16,7 +16,7 @@
         <mark key="]" line="38" column="22" />
         <mark key="." line="38" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1542661262035">
+      <file name="/Python Console" timestamp="1543440884017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload-v1.1/fileload.py" timestamp="1533927123989">
@@ -46,12 +46,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1542649040461">
-        <mark key="e" line="689" column="11" />
-        <mark key="[" line="742" column="84" />
-        <mark key="]" line="742" column="84" />
-        <mark key="." line="742" column="84" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
         <mark key="[" line="376" column="4" />
@@ -93,12 +87,12 @@
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" timestamp="1542661703282">
-        <mark key="'" line="8" column="29" />
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="9" column="79" />
-        <mark key="." line="11" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" timestamp="1542663087877">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/Document/parseebcdic/fff.py" timestamp="1542146228938">
         <mark key="[" line="321" column="4" />
@@ -129,10 +123,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>SystemExit  as err:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>SystemExit  as err:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
