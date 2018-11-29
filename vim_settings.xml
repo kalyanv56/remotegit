@@ -47,10 +47,10 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1543525893436">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1543527589655">
+        <mark key="[" line="162" column="4" />
+        <mark key="]" line="162" column="4" />
+        <mark key="." line="162" column="4" />
         <mark key="^" line="29" column="159" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
@@ -129,10 +129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g_func_var</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>g_func_var</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
