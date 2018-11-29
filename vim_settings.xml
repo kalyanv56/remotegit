@@ -47,8 +47,11 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1543507230019">
-        <mark key="[" line="14" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1543508280531">
+        <mark key="[" line="30" column="159" />
+        <mark key="]" line="29" column="159" />
+        <mark key="." line="29" column="159" />
+        <mark key="^" line="29" column="159" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
         <mark key="[" line="376" column="4" />
@@ -79,7 +82,7 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542648535082">
+      <file name="/Dummy.txt" timestamp="1543508127275">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -126,10 +129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SystemExit  as err:</text>
+        <text>&quot;remove_accent&quot; in json_load[&quot;db_prop&quot;][0].keys():</text>
       </register>
       <register name="-" type="4">
-        <text>SystemExit  as err:</text>
+        <text>&quot;remove_accent&quot; in json_load[&quot;db_prop&quot;][0].keys():</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
