@@ -27,8 +27,10 @@
       <file name="/fragment.py" timestamp="1536338414140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1541089122244">
+      <file name="/a.dummy" timestamp="1543608951560">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Document/parseebcdic/setup.py" timestamp="1541088778755">
         <mark key="[" line="31" column="18" />
@@ -47,10 +49,10 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1543533252734">
-        <mark key="[" line="275" column="12" />
-        <mark key="]" line="275" column="12" />
-        <mark key="." line="275" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1543609507450">
+        <mark key="[" line="164" column="15" />
+        <mark key="]" line="164" column="15" />
+        <mark key="." line="164" column="15" />
         <mark key="^" line="29" column="159" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
@@ -129,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3V0cHV0IA==</text>
+        <text>_cluster</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0cHV0IA==</text>
+        <text>_cluster</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
