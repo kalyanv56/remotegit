@@ -55,7 +55,7 @@
         <mark key="^" line="29" column="159" />
         <mark key="." line="485" column="110" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/JSON naming changes" timestamp="1544112572537" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/JSON naming changes" timestamp="1544114580743" />
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
         <mark key="[" line="376" column="4" />
         <mark key="]" line="376" column="4" />
@@ -96,12 +96,18 @@
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/bashportal/remotescp.sh" timestamp="1544113714155" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" timestamp="1542663087877">
         <mark key="'" line="9" column="29" />
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="10" />
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/bashportal/replace.sh" timestamp="1544114235806">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Document/parseebcdic/fff.py" timestamp="1542146228938">
         <mark key="[" line="321" column="4" />
@@ -132,10 +138,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sequence_ext:</text>
+        <text>Three argument allowed, please provide src , dest paths to copy and ip to connect&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>sequence_ext:</text>
+        <text>Three argument allowed, please provide src , dest paths to copy and ip to connect&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
