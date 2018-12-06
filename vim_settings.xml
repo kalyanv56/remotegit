@@ -49,15 +49,13 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1543952624285">
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1544112398753">
         <mark key="[" line="485" column="110" />
         <mark key="]" line="485" column="110" />
         <mark key="^" line="29" column="159" />
         <mark key="." line="485" column="110" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/JSON naming changes" timestamp="1543961908384">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/JSON naming changes" timestamp="1544112572537" />
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
         <mark key="[" line="376" column="4" />
         <mark key="]" line="376" column="4" />
@@ -134,10 +132,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Added TODO comments for the changes needed.-Kasyap 11/16</text>
+        <text>sequence_ext:</text>
       </register>
       <register name="-" type="4">
-        <text>Added TODO comments for the changes needed.-Kasyap 11/16</text>
+        <text>sequence_ext:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
