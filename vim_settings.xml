@@ -87,11 +87,11 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545244246535">
+      <file name="/Dummy.txt" timestamp="1545328323409">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1535488420089">
         <mark key="[" line="24" column="17" />
@@ -134,10 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_fl</text>
+        <text>at</text>
       </register>
       <register name="-" type="4">
-        <text>_fl</text>
+        <text>at</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
