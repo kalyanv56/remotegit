@@ -76,10 +76,10 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540937919208">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/sqoop_1.0.py" timestamp="1546464547207">
-        <mark key="[" line="101" column="168" />
-        <mark key="]" line="101" column="168" />
-        <mark key="." line="101" column="168" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/sqoop_1.0.py" timestamp="1546467009631">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1540848013344">
         <mark key="e" line="187" column="51" />
@@ -139,10 +139,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%s</text>
+        <text>import re</text>
       </register>
       <register name="-" type="4">
-        <text>%s</text>
+        <text>import re</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
@@ -151,27 +151,23 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>from email.mime.application import MIMEApplication
+from email.MIMEBase import MIMEBase</text>
+      </register>
+      <register name="2" type="4">
         <text>if args.pointer and args.input and args.tramsform is None:
         parser.error(&quot;Type python fileload.py -h to see how to run details&quot;)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>_json_path=_args.pointer
     _input_path=_args.input</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>print (&quot;json input is&quot;,_json_path)
     print (&quot;input file path is&quot;,_input_path)</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>PrintNumbers</text>
-      </register>
-      <register name="5" type="4">
-        <text>Test merge check
-
-# Conflicts:
-#	ebcdic_parser.py
-
-Test merge succesuss</text>
       </register>
       <register name="6" type="4">
         <text>Test merge check
@@ -179,16 +175,21 @@ Test merge succesuss</text>
 # Conflicts:
 #	ebcdic_parser.py
 
-Test merge success</text>
+Test merge succesuss</text>
       </register>
       <register name="7" type="4">
+        <text>Test merge check
+
+# Conflicts:
+#	ebcdic_parser.py
+
+Test merge success</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICIiIgoKICAgIDp0eXBlIHRhYmxlOiBvYmplY3QKICAgICIiIg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Q29kZSAK</text>
+        <text encoding="base64">UmVkZWZpbmVkIGFuZCBpbXBvcnRlZCBjb25maWdfcmVhZGVyIGZ1bmN0aW9uIGFjY2VwdGluZyBwYXJhbWV0ZXJzLkthc3lhcAo=</text>
       </register>
     </registers>
     <search>
