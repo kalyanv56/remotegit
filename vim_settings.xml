@@ -76,6 +76,11 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540937919208">
         <mark key="[" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/sqoop_1.0.py" timestamp="1546461172959">
+        <mark key="[" line="101" column="168" />
+        <mark key="]" line="101" column="168" />
+        <mark key="." line="101" column="168" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/fileload.py" timestamp="1540848013344">
         <mark key="e" line="187" column="51" />
         <mark key="'" line="642" column="25" />
@@ -134,10 +139,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>at</text>
+        <text>%s</text>
       </register>
       <register name="-" type="4">
-        <text>at</text>
+        <text>%s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
