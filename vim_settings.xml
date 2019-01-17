@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1547761359812">
-        <mark key="[" line="770" column="33" />
-        <mark key="]" line="680" column="54" />
-        <mark key="^" line="29" column="159" />
-        <mark key="." line="680" column="54" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1547765230391">
+        <mark key="[" line="777" column="26" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
         <mark key="[" line="376" column="4" />
@@ -139,10 +139,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>When</text>
+        <text>,DatabaseError,DataError,OperationalError</text>
       </register>
       <register name="-" type="4">
-        <text>When</text>
+        <text>,DatabaseError,DataError,OperationalError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1w+</text>
