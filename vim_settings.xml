@@ -6,8 +6,10 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556729501915">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556730690482">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534267053361">
         <mark key="[" line="5" column="0" />
@@ -57,7 +59,7 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556729481520">
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556729745360">
         <mark key="[" line="577" column="39" />
       </file>
       <file name="/PythonRegExp Fragment (__init__.py:26).regexp" timestamp="1556655300781">
@@ -113,7 +115,7 @@
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/__init__.py" timestamp="1556728631066">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/__init__.py" timestamp="1556730657105">
         <mark key="[" line="0" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" timestamp="1542663087877">
@@ -148,7 +150,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text encoding="base64">ICIiIgogICAgICAgIDpydHlwZTogaW50LHN0cgogICAgICAgICIiIg==</text>
       </register>
       <register name="-" type="4">
         <text>master</text>
@@ -159,40 +161,35 @@
       <register name="0" type="4">
         <text>table l</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICIiIgogICAgICAgIDpydHlwZTogaW50LHN0cgogICAgICAgICIiIg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">UmVtb3ZlZCBleHRyYSBwcmludCBzdGF0ZW1ldG5zIGluIGNvZGUgLUtWIDAyLzI3LzE5Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if attrib_val in ('00000000','0000000000'):
                     attrib_val='null'
                     err_msg='None'</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>from email.mime.application import MIMEApplication
 from email.MIMEBase import MIMEBase</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if args.pointer and args.input and args.tramsform is None:
         parser.error(&quot;Type python fileload.py -h to see how to run details&quot;)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>_json_path=_args.pointer
     _input_path=_args.input</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>print (&quot;json input is&quot;,_json_path)
     print (&quot;input file path is&quot;,_input_path)</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>PrintNumbers</text>
-      </register>
-      <register name="8" type="4">
-        <text>Test merge check
-
-# Conflicts:
-#	ebcdic_parser.py
-
-Test merge succesuss</text>
       </register>
       <register name="9" type="4">
         <text>Test merge check
@@ -200,7 +197,7 @@ Test merge succesuss</text>
 # Conflicts:
 #	ebcdic_parser.py
 
-Test merge success</text>
+Test merge succesuss</text>
       </register>
     </registers>
     <search>
