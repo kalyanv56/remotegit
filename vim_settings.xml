@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556916796850">
-        <mark key="'" line="76" column="8" />
-        <mark key="[" line="221" column="38" />
-        <mark key="]" line="221" column="38" />
-        <mark key="." line="221" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556918985758">
+        <mark key="'" line="78" column="8" />
+        <mark key="[" line="150" column="32" />
+        <mark key="]" line="150" column="32" />
+        <mark key="." line="150" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556915785002">
         <mark key="[" line="7" column="13" />
@@ -43,10 +43,10 @@
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/DatatypeValidator.py" timestamp="1556910611408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556916427495">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556918591768">
+        <mark key="[" line="7" column="110" />
+        <mark key="]" line="7" column="110" />
+        <mark key="." line="7" column="110" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Extractkeys.py" timestamp="1556896605203">
         <mark key="[" line="0" column="0" />
@@ -68,8 +68,8 @@
       <file name="/fragment.py" timestamp="1536338414140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/FileWriter.py" timestamp="1556916250769">
-        <mark key="[" line="77" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/FileWriter.py" timestamp="1556918664824">
+        <mark key="[" line="76" column="12" />
         <mark key="]" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
@@ -95,7 +95,7 @@
         <mark key="]" line="166" column="30" />
         <mark key="." line="166" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556915713003">
+      <file name="/Dummy.txt" timestamp="1556919106630">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="10" />
         <mark key="[" line="0" column="0" />
@@ -131,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jsonmapping</text>
+        <text>header_extract.extract_header().split(',')</text>
       </register>
       <register name="-" type="4">
-        <text>jsonmapping</text>
+        <text>header_extract.extract_header().split(',')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
@@ -143,35 +143,39 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>else:
+            process_id</text>
+      </register>
+      <register name="2" type="4">
         <text>record_key, line, self.read_json, as_of_dt, self.entity,
                                                 self.json_path,
                                                 self.write_log)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>record_key, line, self.read_json, as_of_dt, self.entity,
                                             self.json_path,
                                             self.write_log)</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>(record_key, line, self.read_json, as_of_dt, self.entity,
                                             self.json_path,
                                             self.write_log)</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>record_key, line, read_json, as_of_dt, entity, json_path,
                        write_log</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(line, self.read_json[&quot;TBLPROPERTIES&quot;][0],
                                                   line[sub_header_offset_strt:sub_header_offset_end],
                                                   self.timestamp_log, self.is_time_logged)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
                             read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
                             alt_prim_record_key, id_increment, rec_id_flag</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>def read_layout(self):
         prim_record_key = ''
         alt_prim_record_key = ''
@@ -188,12 +192,9 @@
                         sub_rec_seq.append(key)
         return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>self.rec_start_byte=rec_start_byte
         self.rec_end_byte=rec_end_byte</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGRlZiBnZXRfZGV0YWlsX3JjZF9rZXlzKHNlbGYpOgogICAgICAgIGRldGFpbF9yY2Rfa2V5cyA9IFtdCiAgICAgICAgZm9yIGtleSBpbiBzZWxmLnJlYWRfanNvbi5rZXlzKCk6CiAgICAgICAgICAgIGlmIGtleSBub3QgaW4gWydUQkxQUk9QRVJUSUVTJywgJ1RyYWlsZXInXToKICAgICAgICAgICAgICAgIGRldGFpbF9yY2Rfa2V5cy5hcHBlbmQoa2V5W3NlbGYucmVjX3N0YXJ0X2J5dGU6c2VsZi5yZWNfZW5kX2J5dGVdKQogICAgICAgIHJldHVybiBsaXN0KHNldChkZXRhaWxfcmNkX2tleXMpKQ==</text>
       </register>
     </registers>
     <search>
