@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556912253382">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="199" column="48" />
-        <mark key="]" line="199" column="48" />
-        <mark key="." line="199" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556913940801">
+        <mark key="'" line="76" column="8" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556911185474">
         <mark key="[" line="7" column="23" />
@@ -43,10 +43,10 @@
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/DatatypeValidator.py" timestamp="1556910611408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556908019363">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556913748913">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Extractkeys.py" timestamp="1556896605203">
         <mark key="[" line="0" column="0" />
@@ -90,16 +90,23 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556912367572">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556912465887">
         <mark key="[" line="166" column="30" />
         <mark key="]" line="166" column="30" />
         <mark key="." line="166" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1556914325593">
+        <mark key="a" line="0" column="0" />
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/HDFSFileOps.py" timestamp="1556911001893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/config.py" timestamp="1556899692690">
-        <mark key="[" line="13" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/config.py" timestamp="1556914399115">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
@@ -124,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conn, cur, schema, entity, attributes, counter, table_type, prc_nm</text>
+        <text>self.line_no</text>
       </register>
       <register name="-" type="4">
-        <text>conn, cur, schema, entity, attributes, counter, table_type, prc_nm</text>
+        <text>self.line_no</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
