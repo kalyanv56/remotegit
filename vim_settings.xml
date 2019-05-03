@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556913940801">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556916796850">
         <mark key="'" line="76" column="8" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
+        <mark key="[" line="221" column="38" />
+        <mark key="]" line="221" column="38" />
+        <mark key="." line="221" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556915785002">
         <mark key="[" line="7" column="13" />
@@ -43,7 +43,7 @@
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/DatatypeValidator.py" timestamp="1556910611408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556915898054">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556916427495">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="16" />
         <mark key="." line="27" column="16" />
@@ -68,8 +68,8 @@
       <file name="/fragment.py" timestamp="1536338414140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/FileWriter.py" timestamp="1556908768384">
-        <mark key="[" line="31" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/FileWriter.py" timestamp="1556916250769">
+        <mark key="[" line="77" column="12" />
         <mark key="]" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
@@ -131,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HDFSSupportTeam</text>
+        <text>jsonmapping</text>
       </register>
       <register name="-" type="4">
-        <text>HDFSSupportTeam</text>
+        <text>jsonmapping</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
