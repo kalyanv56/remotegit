@@ -6,47 +6,22 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556907953649">
-        <mark key="'" line="71" column="8" />
-        <mark key="[" line="75" column="26" />
-        <mark key="]" line="75" column="26" />
-        <mark key="." line="75" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534267053361">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Document/parseebcdic/SquaredNumbers.py" timestamp="1542392496512">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556909566022">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="155" column="35" />
+        <mark key="]" line="155" column="35" />
+        <mark key="." line="155" column="35" />
       </file>
       <file name="/Python Console" timestamp="1551806871143">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload-v1.1/fileload.py" timestamp="1533927123989">
-        <mark key="[" line="338" column="8" />
-        <mark key="]" line="338" column="8" />
-        <mark key="." line="338" column="8" />
       </file>
       <file name="/fragment.py" timestamp="1536338414140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/FileWriter.py" timestamp="1556908768384">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-      </file>
-      <file name="/a.dummy" timestamp="1543951317350">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Desktop/spark_fileload.py" timestamp="1553098809488">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556899314175">
         <mark key="[" line="6" column="7" />
@@ -54,15 +29,10 @@
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
         <mark key="[" line="347" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/removeitems.py" timestamp="1537371403481">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556908878239">
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556909677236">
         <mark key="[" line="577" column="39" />
       </file>
       <file name="/PythonRegExp Fragment (__init__.py:26).regexp" timestamp="1556655300781">
@@ -70,11 +40,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/readJson.py" timestamp="1556736240503">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/flip.py" timestamp="1536690621969">
-        <mark key="[" line="376" column="4" />
-        <mark key="]" line="376" column="4" />
-        <mark key="." line="376" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AppPortal/test_fileload.py" timestamp="1544823803869">
         <mark key="[" line="0" column="14" />
@@ -84,26 +49,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/test_filter_and_remove.py" timestamp="1537371366785">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1532960827059">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/flip/flip/__init__.py" timestamp="1556654716508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540937919208">
         <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/sqoop_1.0.py" timestamp="1546467009631">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556900689264">
         <mark key="[" line="0" column="0" />
@@ -112,11 +62,6 @@
         <mark key="[" line="495" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AppPortal/config_reader.py" timestamp="1556898739339" />
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1535488420089">
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/AppPortal/sendMail.py" timestamp="1556899874297" />
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/LinuxFileops.py" timestamp="1556900394857">
         <mark key="[" line="0" column="0" />
@@ -146,13 +91,11 @@
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/TimestmpValidator.py" timestamp="1556907822351">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Transformations.py" timestamp="1556909612604">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Fileload/framework/fileload.py" timestamp="1531759962651">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/TimestmpValidator.py" timestamp="1556907822351">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -166,12 +109,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
-                            read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
-                            alt_prim_record_key, id_increment, rec_id_flag</text>
+        <text>ar = 1</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>ar = 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
@@ -180,11 +121,16 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>(line, self.read_json[&quot;TBLPROPERTIES&quot;][0],
+                                                  line[sub_header_offset_strt:sub_header_offset_end],
+                                                  self.timestamp_log, self.is_time_logged)</text>
+      </register>
+      <register name="2" type="4">
         <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
                             read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
                             alt_prim_record_key, id_increment, rec_id_flag</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>def read_layout(self):
         prim_record_key = ''
         alt_prim_record_key = ''
@@ -201,31 +147,27 @@
                         sub_rec_seq.append(key)
         return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>self.rec_start_byte=rec_start_byte
         self.rec_end_byte=rec_end_byte</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGRlZiBnZXRfZGV0YWlsX3JjZF9rZXlzKHNlbGYpOgogICAgICAgIGRldGFpbF9yY2Rfa2V5cyA9IFtdCiAgICAgICAgZm9yIGtleSBpbiBzZWxmLnJlYWRfanNvbi5rZXlzKCk6CiAgICAgICAgICAgIGlmIGtleSBub3QgaW4gWydUQkxQUk9QRVJUSUVTJywgJ1RyYWlsZXInXToKICAgICAgICAgICAgICAgIGRldGFpbF9yY2Rfa2V5cy5hcHBlbmQoa2V5W3NlbGYucmVjX3N0YXJ0X2J5dGU6c2VsZi5yZWNfZW5kX2J5dGVdKQogICAgICAgIHJldHVybiBsaXN0KHNldChkZXRhaWxfcmNkX2tleXMpKQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>from email.mime.application import MIMEApplication
 from email.MIMEBase import MIMEBase</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICIiIgogICAgICAgIDpydHlwZTogaW50LHN0cgogICAgICAgICIiIg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UmVtb3ZlZCBleHRyYSBwcmludCBzdGF0ZW1ldG5zIGluIGNvZGUgLUtWIDAyLzI3LzE5Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if attrib_val in ('00000000','0000000000'):
                     attrib_val='null'
                     err_msg='None'</text>
-      </register>
-      <register name="9" type="4">
-        <text>from email.mime.application import MIMEApplication
-from email.MIMEBase import MIMEBase</text>
       </register>
     </registers>
     <search>
