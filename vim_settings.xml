@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556900620835">
-        <mark key="'" line="69" column="8" />
-        <mark key="[" line="73" column="26" />
-        <mark key="]" line="73" column="26" />
-        <mark key="." line="73" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556902220814">
+        <mark key="'" line="72" column="8" />
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534267053361">
         <mark key="[" line="5" column="0" />
@@ -134,10 +134,10 @@
       <file name="/PythonRegExp Fragment (fileload.py:7189).regexp" timestamp="1556655364258">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556896505524">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556902811931">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Document/parseebcdic/fff.py" timestamp="1542146228938">
         <mark key="[" line="321" column="4" />
@@ -165,7 +165,21 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'host.properties'</text>
+        <text>def read_layout(self):
+        prim_record_key = ''
+        alt_prim_record_key = ''
+        sub_rec_seq = []
+        for key, value in self.read_json.items():
+            for v in value:
+                if &quot;is_prim_rec_key&quot; in v.keys():
+                    if v[&quot;is_prim_rec_key&quot;] == 'True' and &quot;is_alt_prim_rec_key&quot; not in v.keys():
+                        prim_record_key = key
+                    if &quot;is_alt_prim_rec_key&quot; in v.keys() and v[&quot;is_prim_rec_key&quot;] == 'True':
+                        alt_prim_record_key = key
+                if &quot;is_sub_seq&quot; in v.keys():
+                    if v[&quot;is_sub_seq&quot;] == 'True':
+                        sub_rec_seq.append(key)
+        return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
       </register>
       <register name="-" type="4">
         <text>'host.properties'</text>
@@ -177,38 +191,51 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>def read_layout(self):
+        prim_record_key = ''
+        alt_prim_record_key = ''
+        sub_rec_seq = []
+        for key, value in self.read_json.items():
+            for v in value:
+                if &quot;is_prim_rec_key&quot; in v.keys():
+                    if v[&quot;is_prim_rec_key&quot;] == 'True' and &quot;is_alt_prim_rec_key&quot; not in v.keys():
+                        prim_record_key = key
+                    if &quot;is_alt_prim_rec_key&quot; in v.keys() and v[&quot;is_prim_rec_key&quot;] == 'True':
+                        alt_prim_record_key = key
+                if &quot;is_sub_seq&quot; in v.keys():
+                    if v[&quot;is_sub_seq&quot;] == 'True':
+                        sub_rec_seq.append(key)
+        return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
+      </register>
+      <register name="2" type="4">
+        <text>self.rec_start_byte=rec_start_byte
+        self.rec_end_byte=rec_end_byte</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IGRlZiBnZXRfZGV0YWlsX3JjZF9rZXlzKHNlbGYpOgogICAgICAgIGRldGFpbF9yY2Rfa2V5cyA9IFtdCiAgICAgICAgZm9yIGtleSBpbiBzZWxmLnJlYWRfanNvbi5rZXlzKCk6CiAgICAgICAgICAgIGlmIGtleSBub3QgaW4gWydUQkxQUk9QRVJUSUVTJywgJ1RyYWlsZXInXToKICAgICAgICAgICAgICAgIGRldGFpbF9yY2Rfa2V5cy5hcHBlbmQoa2V5W3NlbGYucmVjX3N0YXJ0X2J5dGU6c2VsZi5yZWNfZW5kX2J5dGVdKQogICAgICAgIHJldHVybiBsaXN0KHNldChkZXRhaWxfcmNkX2tleXMpKQ==</text>
+      </register>
+      <register name="4" type="4">
         <text>from email.mime.application import MIMEApplication
 from email.MIMEBase import MIMEBase</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICIiIgogICAgICAgIDpydHlwZTogaW50LHN0cgogICAgICAgICIiIg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">UmVtb3ZlZCBleHRyYSBwcmludCBzdGF0ZW1ldG5zIGluIGNvZGUgLUtWIDAyLzI3LzE5Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>if attrib_val in ('00000000','0000000000'):
                     attrib_val='null'
                     err_msg='None'</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>from email.mime.application import MIMEApplication
 from email.MIMEBase import MIMEBase</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>if args.pointer and args.input and args.tramsform is None:
         parser.error(&quot;Type python fileload.py -h to see how to run details&quot;)</text>
-      </register>
-      <register name="7" type="4">
-        <text>_json_path=_args.pointer
-    _input_path=_args.input</text>
-      </register>
-      <register name="8" type="4">
-        <text>print (&quot;json input is&quot;,_json_path)
-    print (&quot;input file path is&quot;,_input_path)</text>
-      </register>
-      <register name="9" type="8">
-        <text>PrintNumbers</text>
       </register>
     </registers>
     <search>
