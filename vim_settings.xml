@@ -6,11 +6,59 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556909566022">
-        <mark key="'" line="74" column="8" />
-        <mark key="[" line="155" column="35" />
-        <mark key="]" line="155" column="35" />
-        <mark key="." line="155" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556910945903">
+        <mark key="'" line="75" column="8" />
+        <mark key="[" line="199" column="48" />
+        <mark key="]" line="199" column="48" />
+        <mark key="." line="199" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556911185474">
+        <mark key="[" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/LoadtoHawq.py" timestamp="1556911485126">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
+        <mark key="[" line="347" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/readJson.py" timestamp="1556736240503">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/flip/__init__.py" timestamp="1556654716508">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540937919208">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
+        <mark key="[" line="495" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/config_reader.py" timestamp="1556898739339" />
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/sendMail.py" timestamp="1556899874297" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/LinuxFileops.py" timestamp="1556900394857">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/DatatypeValidator.py" timestamp="1556910611408">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556908019363">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Extractkeys.py" timestamp="1556896605203">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
+        <mark key="[" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Transformations.py" timestamp="1556910678200">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/TimestmpValidator.py" timestamp="1556907822351">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1551806871143">
         <mark key="[" line="0" column="0" />
@@ -23,22 +71,13 @@
         <mark key="]" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556899314175">
-        <mark key="[" line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
-        <mark key="[" line="347" column="50" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556909677236">
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556911379259">
         <mark key="[" line="577" column="39" />
       </file>
       <file name="/PythonRegExp Fragment (__init__.py:26).regexp" timestamp="1556655300781">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/readJson.py" timestamp="1556736240503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AppPortal/test_fileload.py" timestamp="1544823803869">
@@ -49,21 +88,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/flip/__init__.py" timestamp="1556654716508">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556911238041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/readme.sh" timestamp="1540937919208">
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556900689264">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
-        <mark key="[" line="495" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/config_reader.py" timestamp="1556898739339" />
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/sendMail.py" timestamp="1556899874297" />
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/LinuxFileops.py" timestamp="1556900394857">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/HDFSFileOps.py" timestamp="1556911001893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/config.py" timestamp="1556899692690">
@@ -77,25 +105,8 @@
       <file name="/PythonRegExp Fragment (fileload.py:7189).regexp" timestamp="1556655364258">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556908019363">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-      </file>
       <file name="$USER_HOME$/Document/parseebcdic/fff.py" timestamp="1542146228938">
         <mark key="[" line="321" column="4" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Extractkeys.py" timestamp="1556896605203">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
-        <mark key="[" line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Transformations.py" timestamp="1556909612604">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/TimestmpValidator.py" timestamp="1556907822351">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -109,7 +120,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ar = 1</text>
+        <text>record_key, line, self.read_json, as_of_dt, self.entity,
+                                                self.json_path,
+                                                self.write_log)</text>
       </register>
       <register name="-" type="4">
         <text>ar = 1</text>
@@ -121,16 +134,35 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>record_key, line, self.read_json, as_of_dt, self.entity,
+                                                self.json_path,
+                                                self.write_log)</text>
+      </register>
+      <register name="2" type="4">
+        <text>record_key, line, self.read_json, as_of_dt, self.entity,
+                                            self.json_path,
+                                            self.write_log)</text>
+      </register>
+      <register name="3" type="4">
+        <text>(record_key, line, self.read_json, as_of_dt, self.entity,
+                                            self.json_path,
+                                            self.write_log)</text>
+      </register>
+      <register name="4" type="4">
+        <text>record_key, line, read_json, as_of_dt, entity, json_path,
+                       write_log</text>
+      </register>
+      <register name="5" type="4">
         <text>(line, self.read_json[&quot;TBLPROPERTIES&quot;][0],
                                                   line[sub_header_offset_strt:sub_header_offset_end],
                                                   self.timestamp_log, self.is_time_logged)</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
                             read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
                             alt_prim_record_key, id_increment, rec_id_flag</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>def read_layout(self):
         prim_record_key = ''
         alt_prim_record_key = ''
@@ -147,27 +179,12 @@
                         sub_rec_seq.append(key)
         return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>self.rec_start_byte=rec_start_byte
         self.rec_end_byte=rec_end_byte</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGRlZiBnZXRfZGV0YWlsX3JjZF9rZXlzKHNlbGYpOgogICAgICAgIGRldGFpbF9yY2Rfa2V5cyA9IFtdCiAgICAgICAgZm9yIGtleSBpbiBzZWxmLnJlYWRfanNvbi5rZXlzKCk6CiAgICAgICAgICAgIGlmIGtleSBub3QgaW4gWydUQkxQUk9QRVJUSUVTJywgJ1RyYWlsZXInXToKICAgICAgICAgICAgICAgIGRldGFpbF9yY2Rfa2V5cy5hcHBlbmQoa2V5W3NlbGYucmVjX3N0YXJ0X2J5dGU6c2VsZi5yZWNfZW5kX2J5dGVdKQogICAgICAgIHJldHVybiBsaXN0KHNldChkZXRhaWxfcmNkX2tleXMpKQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text>from email.mime.application import MIMEApplication
-from email.MIMEBase import MIMEBase</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICIiIgogICAgICAgIDpydHlwZTogaW50LHN0cgogICAgICAgICIiIg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">UmVtb3ZlZCBleHRyYSBwcmludCBzdGF0ZW1ldG5zIGluIGNvZGUgLUtWIDAyLzI3LzE5Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text>if attrib_val in ('00000000','0000000000'):
-                    attrib_val='null'
-                    err_msg='None'</text>
+        <text encoding="base64">IGRlZiBnZXRfZGV0YWlsX3JjZF9rZXlzKHNlbGYpOgogICAgICAgIGRldGFpbF9yY2Rfa2V5cyA9IFtdCiAgICAgICAgZm9yIGtleSBpbiBzZWxmLnJlYWRfanNvbi5rZXlzKCk6CiAgICAgICAgICAgIGlmIGtleSBub3QgaW4gWydUQkxQUk9QRVJUSUVTJywgJ1RyYWlsZXInXToKICAgICAgICAgICAgICAgIGRldGFpbF9yY2Rfa2V5cy5hcHBlbmQoa2V5W3NlbGYucmVjX3N0YXJ0X2J5dGU6c2VsZi5yZWNfZW5kX2J5dGVdKQogICAgICAgIHJldHVybiBsaXN0KHNldChkZXRhaWxfcmNkX2tleXMpKQ==</text>
       </register>
     </registers>
     <search>
