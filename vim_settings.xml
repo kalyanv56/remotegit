@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556902220814">
-        <mark key="'" line="72" column="8" />
-        <mark key="[" line="76" column="26" />
-        <mark key="]" line="76" column="26" />
-        <mark key="." line="76" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556907953649">
+        <mark key="'" line="71" column="8" />
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="26" />
+        <mark key="." line="75" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534267053361">
         <mark key="[" line="5" column="0" />
@@ -32,6 +32,11 @@
       </file>
       <file name="/fragment.py" timestamp="1536338414140">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/FileWriter.py" timestamp="1556908768384">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1543951317350">
         <mark key="[" line="0" column="0" />
@@ -57,7 +62,7 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556900138513">
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556908878239">
         <mark key="[" line="577" column="39" />
       </file>
       <file name="/PythonRegExp Fragment (__init__.py:26).regexp" timestamp="1556655300781">
@@ -107,13 +112,6 @@
         <mark key="[" line="495" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AppPortal/config_reader.py" timestamp="1556898739339" />
-      <file name="/Dummy.txt" timestamp="1552575322269">
-        <mark key="a" line="0" column="0" />
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/python/parse.py" timestamp="1535488420089">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="25" column="8" />
@@ -134,10 +132,10 @@
       <file name="/PythonRegExp Fragment (fileload.py:7189).regexp" timestamp="1556655364258">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556902811931">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="4" />
-        <mark key="." line="41" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556908019363">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Document/parseebcdic/fff.py" timestamp="1542146228938">
         <mark key="[" line="321" column="4" />
@@ -147,6 +145,9 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
         <mark key="[" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/TimestmpValidator.py" timestamp="1556907822351">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Fileload/framework/fileload.py" timestamp="1531759962651">
         <mark key="[" line="0" column="0" />
@@ -165,24 +166,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>def read_layout(self):
-        prim_record_key = ''
-        alt_prim_record_key = ''
-        sub_rec_seq = []
-        for key, value in self.read_json.items():
-            for v in value:
-                if &quot;is_prim_rec_key&quot; in v.keys():
-                    if v[&quot;is_prim_rec_key&quot;] == 'True' and &quot;is_alt_prim_rec_key&quot; not in v.keys():
-                        prim_record_key = key
-                    if &quot;is_alt_prim_rec_key&quot; in v.keys() and v[&quot;is_prim_rec_key&quot;] == 'True':
-                        alt_prim_record_key = key
-                if &quot;is_sub_seq&quot; in v.keys():
-                    if v[&quot;is_sub_seq&quot;] == 'True':
-                        sub_rec_seq.append(key)
-        return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
+        <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
+                            read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
+                            alt_prim_record_key, id_increment, rec_id_flag</text>
       </register>
       <register name="-" type="4">
-        <text>'host.properties'</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
@@ -191,6 +180,11 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
+                            read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
+                            alt_prim_record_key, id_increment, rec_id_flag</text>
+      </register>
+      <register name="2" type="4">
         <text>def read_layout(self):
         prim_record_key = ''
         alt_prim_record_key = ''
@@ -207,35 +201,31 @@
                         sub_rec_seq.append(key)
         return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>self.rec_start_byte=rec_start_byte
         self.rec_end_byte=rec_end_byte</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IGRlZiBnZXRfZGV0YWlsX3JjZF9rZXlzKHNlbGYpOgogICAgICAgIGRldGFpbF9yY2Rfa2V5cyA9IFtdCiAgICAgICAgZm9yIGtleSBpbiBzZWxmLnJlYWRfanNvbi5rZXlzKCk6CiAgICAgICAgICAgIGlmIGtleSBub3QgaW4gWydUQkxQUk9QRVJUSUVTJywgJ1RyYWlsZXInXToKICAgICAgICAgICAgICAgIGRldGFpbF9yY2Rfa2V5cy5hcHBlbmQoa2V5W3NlbGYucmVjX3N0YXJ0X2J5dGU6c2VsZi5yZWNfZW5kX2J5dGVdKQogICAgICAgIHJldHVybiBsaXN0KHNldChkZXRhaWxfcmNkX2tleXMpKQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>from email.mime.application import MIMEApplication
 from email.MIMEBase import MIMEBase</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICIiIgogICAgICAgIDpydHlwZTogaW50LHN0cgogICAgICAgICIiIg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">UmVtb3ZlZCBleHRyYSBwcmludCBzdGF0ZW1ldG5zIGluIGNvZGUgLUtWIDAyLzI3LzE5Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if attrib_val in ('00000000','0000000000'):
                     attrib_val='null'
                     err_msg='None'</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>from email.mime.application import MIMEApplication
 from email.MIMEBase import MIMEBase</text>
-      </register>
-      <register name="9" type="4">
-        <text>if args.pointer and args.input and args.tramsform is None:
-        parser.error(&quot;Type python fileload.py -h to see how to run details&quot;)</text>
       </register>
     </registers>
     <search>
