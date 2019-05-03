@@ -6,10 +6,11 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556896882702">
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="74" column="26" />
-        <mark key="." line="74" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556900620835">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="26" />
+        <mark key="." line="72" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/execsh/execsh.py" timestamp="1534267053361">
         <mark key="[" line="5" column="0" />
@@ -42,6 +43,9 @@
         <mark key="]" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556899314175">
+        <mark key="[" line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
         <mark key="[" line="347" column="50" />
       </file>
@@ -53,7 +57,7 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556895196910">
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556900138513">
         <mark key="[" line="577" column="39" />
       </file>
       <file name="/PythonRegExp Fragment (__init__.py:26).regexp" timestamp="1556655300781">
@@ -69,6 +73,11 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/AppPortal/test_fileload.py" timestamp="1544823803869">
         <mark key="[" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/sendMail.py" timestamp="1556898873245">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/P10006-ApplicationEnhancements/test_filter_and_remove.py" timestamp="1537371366785">
         <mark key="[" line="0" column="14" />
@@ -91,12 +100,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556727842544">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556900593752">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/config_reader.py" timestamp="1556898739339" />
       <file name="/Dummy.txt" timestamp="1552575322269">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="10" />
@@ -109,15 +119,17 @@
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/sendMail.py" timestamp="1556899874297" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/LinuxFileops.py" timestamp="1556900394857">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/config.py" timestamp="1556899692690">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/__init__.py" timestamp="1556736707236">
         <mark key="[" line="0" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" timestamp="1542663087877">
-        <mark key="'" line="9" column="29" />
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="19" column="10" />
       </file>
       <file name="/PythonRegExp Fragment (fileload.py:7189).regexp" timestamp="1556655364258">
         <mark key="[" line="0" column="0" />
@@ -149,63 +161,60 @@
       <jump line="8" column="29" filename="$APPLICATION_CONFIG_DIR$/scratches/try_argparse.py" />
       <jump line="0" column="10" filename="/Dummy.txt" />
       <jump line="417" column="12" filename="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jsonmapping.</text>
+        <text>'host.properties'</text>
       </register>
       <register name="-" type="4">
-        <text>jsonmapping.</text>
+        <text>'host.properties'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbGlmXD4=</text>
+        <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>from email.mime.application import MIMEApplication
+from email.MIMEBase import MIMEBase</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICIiIgogICAgICAgIDpydHlwZTogaW50LHN0cgogICAgICAgICIiIg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">UmVtb3ZlZCBleHRyYSBwcmludCBzdGF0ZW1ldG5zIGluIGNvZGUgLUtWIDAyLzI3LzE5Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if attrib_val in ('00000000','0000000000'):
                     attrib_val='null'
                     err_msg='None'</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>from email.mime.application import MIMEApplication
 from email.MIMEBase import MIMEBase</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if args.pointer and args.input and args.tramsform is None:
         parser.error(&quot;Type python fileload.py -h to see how to run details&quot;)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>_json_path=_args.pointer
     _input_path=_args.input</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>print (&quot;json input is&quot;,_json_path)
     print (&quot;input file path is&quot;,_input_path)</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>PrintNumbers</text>
-      </register>
-      <register name="9" type="4">
-        <text>Test merge check
-
-# Conflicts:
-#	ebcdic_parser.py
-
-Test merge succesuss</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbGlmXD4=</last-search>
+      <last-search encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbGlmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -213,6 +222,7 @@ Test merge succesuss</text>
       <history-search>
         <entry encoding="base64">XDxUT1w+</entry>
         <entry encoding="base64">XDxlbGlmXD4=</entry>
+        <entry encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
