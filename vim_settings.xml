@@ -12,8 +12,8 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556911185474">
-        <mark key="[" line="7" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556915785002">
+        <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/LoadtoHawq.py" timestamp="1556911973878">
         <mark key="[" line="18" column="15" />
@@ -37,16 +37,16 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/AppPortal/config_reader.py" timestamp="1556898739339" />
       <file name="$USER_HOME$/PycharmProjects/AppPortal/sendMail.py" timestamp="1556899874297" />
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/LinuxFileops.py" timestamp="1556900394857">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/LinuxFileops.py" timestamp="1556915619120">
+        <mark key="[" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Validators/DatatypeValidator.py" timestamp="1556910611408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556913748913">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/ExtractJsonMapping.py" timestamp="1556915898054">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Extractkeys.py" timestamp="1556896605203">
         <mark key="[" line="0" column="0" />
@@ -76,7 +76,7 @@
       <file name="$USER_HOME$/PycharmProjects/ebcdicparsing/ebcdic_parser.py" timestamp="1540929398714">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556911379259">
+      <file name="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" timestamp="1556915533600">
         <mark key="[" line="577" column="39" />
       </file>
       <file name="/PythonRegExp Fragment (__init__.py:26).regexp" timestamp="1556655300781">
@@ -85,17 +85,17 @@
       <file name="$USER_HOME$/PycharmProjects/AppPortal/test_fileload.py" timestamp="1544823803869">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/sendMail.py" timestamp="1556898873245">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/sendMail.py" timestamp="1556915736757">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556912465887">
-        <mark key="[" line="166" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556915590413">
+        <mark key="[" line="21" column="128" />
         <mark key="]" line="166" column="30" />
         <mark key="." line="166" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556914325593">
+      <file name="/Dummy.txt" timestamp="1556915713003">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="10" />
         <mark key="[" line="0" column="0" />
@@ -105,10 +105,10 @@
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/HDFSFileOps.py" timestamp="1556911001893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/config.py" timestamp="1556914399115">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/config.py" timestamp="1556915143510">
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/__init__.py" timestamp="1556736707236">
         <mark key="[" line="0" column="12" />
@@ -131,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.line_no</text>
+        <text>HDFSSupportTeam</text>
       </register>
       <register name="-" type="4">
-        <text>self.line_no</text>
+        <text>HDFSSupportTeam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
