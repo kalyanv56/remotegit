@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1542503147741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556910945903">
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" timestamp="1556912253382">
         <mark key="'" line="75" column="8" />
         <mark key="[" line="199" column="48" />
         <mark key="]" line="199" column="48" />
@@ -15,8 +15,10 @@
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/util/host.properties" timestamp="1556911185474">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/LoadtoHawq.py" timestamp="1556911485126">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Load/LoadtoHawq.py" timestamp="1556911973878">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fileload_v1.0/test_phase/fileload.py" timestamp="1533770989278">
         <mark key="[" line="347" column="50" />
@@ -88,8 +90,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556911238041">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/main.py" timestamp="1556912367572">
+        <mark key="[" line="166" column="30" />
+        <mark key="]" line="166" column="30" />
+        <mark key="." line="166" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/fileops/HDFSFileOps.py" timestamp="1556911001893">
         <mark key="[" line="0" column="0" />
@@ -120,12 +124,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>record_key, line, self.read_json, as_of_dt, self.entity,
-                                                self.json_path,
-                                                self.write_log)</text>
+        <text>conn, cur, schema, entity, attributes, counter, table_type, prc_nm</text>
       </register>
       <register name="-" type="4">
-        <text>ar = 1</text>
+        <text>conn, cur, schema, entity, attributes, counter, table_type, prc_nm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNfc3RhcnRfYnl0ZVw+</text>
