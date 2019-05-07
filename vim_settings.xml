@@ -12,7 +12,7 @@
         <mark key="]" line="150" column="32" />
         <mark key="." line="150" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1557176649504">
+      <file name="/Python Console" timestamp="1557261248891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557176725502">
@@ -114,8 +114,8 @@
       <file name="$USER_HOME$/PycharmProjects/flipframework/remotessh.sh.txt" timestamp="1531432841225">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Transformations.py" timestamp="1557259403689">
-        <mark key="'" line="47" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Transformations.py" timestamp="1557262102947">
+        <mark key="'" line="25" column="8" />
         <mark key="[" line="46" column="24" />
         <mark key="]" line="46" column="24" />
         <mark key="." line="46" column="24" />
@@ -133,13 +133,14 @@
       <jump line="417" column="12" filename="$USER_HOME$/PycharmProjects/AppPortal/fileload.py" />
       <jump line="69" column="8" filename="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Process.py" />
       <jump line="46" column="24" filename="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Transformations.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/PycharmProjects/flip/fileload/Extract/Transform/Transformations.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result.transform_data()</text>
+        <text>class TransformUnitTest:</text>
       </register>
       <register name="-" type="4">
-        <text>result.transform_data()</text>
+        <text>class TransformUnitTest:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -148,58 +149,45 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>print (type(res_str))
+        print (res_str)</text>
+      </register>
+      <register name="2" type="4">
+        <text>if __name__ == &quot;__main__&quot;:
+    unittest.main()</text>
+      </register>
+      <register name="3" type="4">
         <text>else:
             process_id</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>record_key, line, self.read_json, as_of_dt, self.entity,
                                                 self.json_path,
                                                 self.write_log)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>record_key, line, self.read_json, as_of_dt, self.entity,
                                             self.json_path,
                                             self.write_log)</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>(record_key, line, self.read_json, as_of_dt, self.entity,
                                             self.json_path,
                                             self.write_log)</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>record_key, line, read_json, as_of_dt, entity, json_path,
                        write_log</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>(line, self.read_json[&quot;TBLPROPERTIES&quot;][0],
                                                   line[sub_header_offset_strt:sub_header_offset_end],
                                                   self.timestamp_log, self.is_time_logged)</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
                             read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
                             alt_prim_record_key, id_increment, rec_id_flag</text>
-      </register>
-      <register name="8" type="4">
-        <text>def read_layout(self):
-        prim_record_key = ''
-        alt_prim_record_key = ''
-        sub_rec_seq = []
-        for key, value in self.read_json.items():
-            for v in value:
-                if &quot;is_prim_rec_key&quot; in v.keys():
-                    if v[&quot;is_prim_rec_key&quot;] == 'True' and &quot;is_alt_prim_rec_key&quot; not in v.keys():
-                        prim_record_key = key
-                    if &quot;is_alt_prim_rec_key&quot; in v.keys() and v[&quot;is_prim_rec_key&quot;] == 'True':
-                        alt_prim_record_key = key
-                if &quot;is_sub_seq&quot; in v.keys():
-                    if v[&quot;is_sub_seq&quot;] == 'True':
-                        sub_rec_seq.append(key)
-        return prim_record_key, sub_rec_seq, alt_prim_record_key</text>
-      </register>
-      <register name="9" type="4">
-        <text>self.rec_start_byte=rec_start_byte
-        self.rec_end_byte=rec_end_byte</text>
       </register>
     </registers>
     <search>
