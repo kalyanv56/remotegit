@@ -73,12 +73,12 @@
       <file name="$USER_HOME$/Desktop/HDFS/branch/P10008-HadoopApp/fileload-v1.0/python/fileload.py" timestamp="1533590422414">
         <mark key="[" line="495" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557175184880">
+      <file name="/Dummy.txt" timestamp="1557346485316">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flip/fileload/tests/testTransform.py" timestamp="1557259611349">
         <mark key="[" line="151" column="8" />
@@ -142,7 +142,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>esult.file</text>
+        <text>Reverted the back the changes for the date format coming in as zeros and null the field without sending the emails.
+2.Moved as_of_Dt validation logic into the detailed record parsing logic to avoid unecessary breaks when processing Trunc and load data.-KV 03/14/19</text>
       </register>
       <register name="-" type="4">
         <text>esult.file</text>
@@ -154,45 +155,44 @@
         <text>table l</text>
       </register>
       <register name="1" type="4">
+        <text>Reverted the back the changes for the date format coming in as zeros and null the field without sending the emails.
+2.Moved as_of_Dt validation logic into the detailed record parsing logic to avoid unecessary breaks when processing Trunc and load data.-KV 03/14/19</text>
+      </register>
+      <register name="2" type="4">
         <text>print (type(res_str))
         print (res_str)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if __name__ == &quot;__main__&quot;:
     unittest.main()</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>else:
             process_id</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>record_key, line, self.read_json, as_of_dt, self.entity,
                                                 self.json_path,
                                                 self.write_log)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>record_key, line, self.read_json, as_of_dt, self.entity,
                                             self.json_path,
                                             self.write_log)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>(record_key, line, self.read_json, as_of_dt, self.entity,
                                             self.json_path,
                                             self.write_log)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>record_key, line, read_json, as_of_dt, entity, json_path,
                        write_log</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>(line, self.read_json[&quot;TBLPROPERTIES&quot;][0],
                                                   line[sub_header_offset_strt:sub_header_offset_end],
                                                   self.timestamp_log, self.is_time_logged)</text>
-      </register>
-      <register name="9" type="4">
-        <text>hdr_attrbts, sub_hdr_attrbts, business_date, record_set_dict, sub_record_seq_dict, record_set_count,
-                            read_json, sub_record_sequence_list, to_file, process_id, insert_ts,
-                            alt_prim_record_key, id_increment, rec_id_flag</text>
       </register>
     </registers>
     <search>
